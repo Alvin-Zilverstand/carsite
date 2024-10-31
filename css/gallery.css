@@ -8,7 +8,7 @@ body {
   .gallery {
     --size: 100px;
     display: grid;
-    grid-template-columns: repeat(10, var(--size));
+    grid-template-columns: repeat(8, var(--size));
     grid-auto-rows: var(--size);
     margin-bottom: var(--size);
     place-items: start center;
@@ -30,7 +30,7 @@ body {
       
   
       &:nth-child(5n - 1) { 
-        grid-column: 3 / span 3
+        grid-column: 2.5 / span 2.5
       }
   
       &:hover,
