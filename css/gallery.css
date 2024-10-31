@@ -30,7 +30,7 @@ body {
       
   
       &:nth-child(5n - 1) { 
-        grid-column: auto / span 1
+        grid-column: 3 / span 3
       }
   
       &:hover,
