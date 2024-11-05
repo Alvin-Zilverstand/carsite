@@ -4,3 +4,7 @@
 .pad-down { 
     padding-top: 50px; /* Adjust the value as needed */ 
 } 
+
+.pad-down-event {
+    padding-top: 250px;
+}
