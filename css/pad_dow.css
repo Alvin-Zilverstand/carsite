@@ -5,6 +5,9 @@
     padding-top: 50px; /* Adjust the value as needed */ 
 } 
 
+.pad-up-event {
+    padding-top: 200px;
+}
 .pad-down-event {
-    padding-top: 250px;
+    padding-bottom: 100px;
 }
